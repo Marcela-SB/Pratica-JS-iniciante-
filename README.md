@@ -1,9 +1,7 @@
 # Pratica-JS-iniciante-
 Desafios simples JS
 
-1. Construir um arquivo html em Javascript que apresente no mínimo um dos algoritmos a seguir, a página poderá conter os recursos estudados anteriormente.
-
-2. Criar os seguintes algoritmos: <BR>
+### Criar os seguintes algoritmos: <BR>
   a) Que imprima todos os números pares no intervalo de 1 a 20. <BR>
   b) Que imprima os números de 120 a 300. <BR>
   c) Que entre com 10 número e imprima a metade de cada número. <BR>
