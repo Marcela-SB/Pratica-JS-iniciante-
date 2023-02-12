@@ -1,4 +1,4 @@
-//f) Entre com um número e verifique se é um número primo</h2>
+// F) ENTRE COM UM NÚMERO E VERIFIQUE SE É UM NÚMERO PRIMO
 
 var num, div=0;
 num=parseFloat(prompt("Insira um valor..."));
