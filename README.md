@@ -1,4 +1,4 @@
-# Pratica-JS-iniciante-
+# Prática JS (iniciante)
 Desafios simples JS
 
 ### Criar os seguintes algoritmos: <BR>
